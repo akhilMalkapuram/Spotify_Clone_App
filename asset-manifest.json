@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Spotify_Clone_App/static/css/main.00c66fba.css",
+    "main.js": "/Spotify_Clone_App/static/js/main.7bf7429e.js",
+    "index.html": "/Spotify_Clone_App/index.html",
+    "main.00c66fba.css.map": "/Spotify_Clone_App/static/css/main.00c66fba.css.map",
+    "main.7bf7429e.js.map": "/Spotify_Clone_App/static/js/main.7bf7429e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00c66fba.css",
+    "static/js/main.7bf7429e.js"
+  ]
+}
